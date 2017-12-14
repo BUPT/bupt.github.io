@@ -4,7 +4,7 @@ title:  "Welcome to BUPT Machine Learning Blog!"
 date:   2017-12-13 23:49:10 +0800
 author: mnsong
 ---
-Hi，Guys! 
+Hi, Guys!
 
 Welcome to BUPT Utopia，which is an imagined place where everything is perfect for programmer. Today we focus on all kinds of things for data analysis especially on Machine Learning.
 
