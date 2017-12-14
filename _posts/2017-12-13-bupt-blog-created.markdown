@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to BUPT Machine Learning Blog!"
 date:   2017-12-13 23:49:10 +0800
-author: BUPT
+author: mnsong
 ---
 Hi，Guys! 
 
@@ -16,4 +16,5 @@ If you are also a student who are studying Machine Learning and data analysis in
 
 Pull Request is welcome!
 
-
+Meina SONG  
+Professor at Beijing University of Posts and Telecommunications
