@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to BUPT Machine Learning Blog!"
+title:  "Welcome to BUPT Org Blog!"
 date:   2017-12-13 23:49:10 +0800
-author: mnsong
+author: HoneyCatty
 category: announcement
 ---
 Hi, Guys!
