@@ -1,5 +1,26 @@
 # /_data/authors.yml
 
+HoneyCatty:
+  name        : "Meina Song (宋美娜)"
+  bio         : "Easy the software integration."
+  avatar      : "https://avatars3.githubusercontent.com/u/16758528?s=460&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/HoneyCatty"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://www.weibo.com/mnsong"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/lizhuohuan"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mnsong@bupt.edu.cn"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://baike.baidu.com/item/宋美娜/4444673"
+
 huan:
   name        : "Huan LI (李卓桓)"
   bio         : "Conversational AI Coder with 💖"
