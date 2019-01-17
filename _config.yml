@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Team Blog for BUPT Githubers"
+title                    : "Beijing University of Posts and Telecom"
 title_separator          : "-"
 name                     : "BUPT"
 description              : "We are awesome. Talk is cheap, show me the code."
