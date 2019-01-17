@@ -22,7 +22,7 @@ name                     : "BUPT"
 description              : "We are awesome. Talk is cheap, show me the code."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "BUPT/awesome-chatbot" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "BUPT/bupt.githb.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/bupt-logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200

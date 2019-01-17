@@ -15,7 +15,8 @@ lint: pylint pycodestyle flake8 mypy
 
 .PHONY: install
 install:
-	(cd docs && bundle install && bundle update)
+	bundle install
+	bundle update
 
 .PHONY: test
 test:
@@ -27,8 +28,8 @@ code:
 
 .PHONY: serve
 serve:
-	(cd docs && bundle exec jekyll serve)
+	bundle exec jekyll serve
 
 .PHONY: fit-image
 fit-image:
-	./scripts/fit-image.sh docs/assets/2019
+	./scripts/fit-image.sh assets/2019

@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "Welcome to BUPT Machine Learning Blog!"
 date:   2017-12-13 23:49:10 +0800
 author: mnsong
+category: announcement
 ---
 Hi, Guys!
 
