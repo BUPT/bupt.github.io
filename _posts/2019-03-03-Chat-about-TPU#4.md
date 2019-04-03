@@ -17,7 +17,7 @@ date: 2019-03-04
 
 ## 伍/边缘计算场景中TPU硬件
 
-## Edge TPU and Other AI Accelerators
+## Five/Edge TPU and Other AI Accelerators
 
 ### 1. 为什么Edge TPU值得期待
 
