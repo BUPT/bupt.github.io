@@ -29,7 +29,7 @@ Edge TPU/Edge TPU Dev Board/Edge TPU Accelerator将共同促进边缘AI的蓬勃
 
 ### 2. Edge TPU
 
-![AI at the edge](../../../../../assets/2019/edge-1.png)
+![AI at the edge](../../../../../assets/2019/chat-about-tpu-4-1.png)
 
 树莓派(Raspberry Pi)出现的时候我还在修习本科学位,最后一个学期尝试的是IoT方向.当时国内用来做IoT模拟实验的还是类似仿真电路模拟的那一个臃肿箱子,当时好友@宋恺睿 *songkairui*@hackret.com第一次拿出树莓派的时候,我:哇塞!!!没有想到那么小一个东西的如此的富有功能性.
 
@@ -47,7 +47,7 @@ Edge TPU/Edge TPU Dev Board/Edge TPU Accelerator将共同促进边缘AI的蓬勃
 
 
 
-![IoT Edge Module artwork](../../../../../assets/2019/edge-2.png)
+![IoT Edge Module artwork](../../../../../assets/2019/chat-about-tpu-4-2.png)
 
 > [Edge TPU](https://cloud.google.com/edge-tpu/)
 >
@@ -72,7 +72,7 @@ Edge TPU优势在于可以加速设备上的机器学习推理，或者也可以
 
 ### 3. AIY Edge TPU开发板
 
-![](../../../../../assets/2019/edge-3.jpg)
+![](../../../../../assets/2019/chat-about-tpu-4-3.jpg)
 
 [AIY Edge TPU开发板](https://aiyprojects.withgoogle.com/edge-tpu)是一款搭载了Edge TPU的单板计算机，功能非常丰富。开发板分为底板跟核心板，底板包括一些常用的外设接口，而核心板是基于Google Edge TPU的模块化系统子板（核心板与底板可以分离），也就是下图中带屏蔽罩的那个SOM（system-on-module ）。
 
@@ -119,7 +119,7 @@ TensorFlow Lite
 
 ### 4. Edge TPU协处理器
 
-![](../../../../../assets/2019/edge-4.jpg)
+![](../../../../../assets/2019/chat-about-tpu-4-4.jpg)
 
 [AIY Edge TPU加速器](https://aiyprojects.withgoogle.com/edge-tpu)是一个基于Google Edge TPU的USB设备型的神经网络加速设备，通过USB Type-C可以连接到任何基于Linux系统的PC机、单板计算机如树莓派等的设备上去执行机器学习推理。
 
@@ -144,7 +144,7 @@ TensorFlow Lite
 
 ### 5. NVIDIA Jetson Nano($99!)
 
-![](../../../../../assets/2019/edge-5.jpg)
+![](../../../../../assets/2019/chat-about-tpu-4-5.jpg)
 
 __AI 新维度__
 
