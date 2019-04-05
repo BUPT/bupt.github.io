@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "闲话TPU #2 配置GCP环境/创建TPU实例"
 categories: "TPU Blog"
 author: "Cy.Feng"
@@ -8,11 +7,11 @@ date: 2019-03-06
 
 版权声明：本博文欢迎分享与转载，转载请注明出处和作者。<cy.z.feng@gmail.com>
 
-> [闲话TPU #1 背景/价格/TFRC计划及羊毛](http://cyfeng.science/tpu/blog/2019/03/07/Chat-about-TPU-1.html)
+> [闲话TPU #1 背景/价格/TFRC计划及羊毛](http://cyfeng.science/tpu/blog/2019/03/07/chat-about-tpu-1.html)
 >
-> [闲话TPU #3 模型编写](http://cyfeng.science/tpu/blog/2019/03/05/Chat-about-TPU-3.html)
+> [闲话TPU #3 模型编写](http://cyfeng.science/tpu/blog/2019/03/05/chat-about-tpu-3.html)
 >
-> [闲话TPU #4 Coral Edge TPU赋能移动端](http://cyfeng.science/tpu/blog/2019/03/04/Chat-about-TPU-4.html)
+> [闲话TPU #4 Coral Edge TPU赋能移动端](http://cyfeng.science/tpu/blog/2019/03/04/chat-about-tpu-4.html)
 
 ## 贰/配置GCP和创建TPU实例
 
