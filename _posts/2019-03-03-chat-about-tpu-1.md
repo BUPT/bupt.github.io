@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "闲话TPU #1 背景/价格/TFRC计划及羊毛"
 categories: "TPU Blog"
 author: "Cy.Feng"
@@ -8,11 +7,11 @@ date: 2019-03-07
 
 版权声明：本博文欢迎分享与转载，转载请注明出处和作者。<cy.z.feng@gmail.com>
 
-> [闲话TPU #2 配置GCP环境/创建TPU实例](http://cyfeng.science/tpu/blog/2019/03/06/Chat-about-TPU-2.html)
+> [闲话TPU #2 配置GCP环境/创建TPU实例](http://cyfeng.science/tpu/blog/2019/03/06/chat-about-tpu-2.html)
 >
-> [闲话TPU #3 模型编写](http://cyfeng.science/tpu/blog/2019/03/05/Chat-about-TPU-3.html)
+> [闲话TPU #3 模型编写](http://cyfeng.science/tpu/blog/2019/03/05/chat-about-tpu-3.html)
 >
-> [闲话TPU #4 Coral Edge TPU赋能移动端](http://cyfeng.science/tpu/blog/2019/03/04/Chat-about-TPU-4.html)
+> [闲话TPU #4 Coral Edge TPU赋能移动端](http://cyfeng.science/tpu/blog/2019/03/04/chat-about-tpu-4.html)
 
 ## 零/为什么会出现这篇博客?
 
@@ -110,6 +109,6 @@ TPU, 全称Tensor Processing Unit, 从名字看就是专门用来加速Tensor计
 
 曾经算过笔账, 不是密集型生产实践任务, 很单纯的使用TPU进行一些模型的验证, 每天消耗的小钱钱up的钱包还是能承受起的啦(难免心痛).
 
-**[划重点/划重点]可以薅的羊毛还有[Google Colab](https://colab.research.google.com/). Colaboratory是一个研究项目，可免费使用的 Jupyter 笔记本环境，不需要进行任何设置就可以使用，并且完全在云端运行, 目前提供三种免费的硬件支持: `CPU`/`GPU|P40`/`TPU|v2`.** 缺点是系统可能会停止长时间运行的后台计算, 你的计算也可能会因为浏览器自动节能等等原因断开连接.
+**[划重点/划重点]可以薅的羊毛还有[Google Colab](https://colab.research.google.com/). Colaboratory是一个研究项目，可免费使用的 Jupyter 笔记本环境，不需要进行任何设置就可以使用，并且完全在云端运行, 目前提供三种免费的硬件支持: `CPU`/`GPU|K80`/`TPU|v2`.** 缺点是系统可能会停止长时间运行的后台计算, 你的计算也可能会因为浏览器自动节能等等原因断开连接.
 
 好, 在下一篇文章中, 我们会进入下一个话题, ~~[母猪的产后护理]~~ 如何开始使用TPU.
