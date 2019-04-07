@@ -72,3 +72,18 @@ TuringLee:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/TuringLee"
+
+CyFeng16:
+  name        : "石珅达"
+  bio         : "Once a year, go some place you've never been before."
+  avatar      : "https://avatars.githubusercontent.com/CyFeng16?s=460&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CyFeng16"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cy.z.feng@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://cyfeng.science"
