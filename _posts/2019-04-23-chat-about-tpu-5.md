@@ -13,7 +13,7 @@ date: 2019-04-23
 >
 > [闲话TPU #3 模型编写](http://cyfeng.science/tpu/blog/2019/03/05/chat-about-tpu-3.html)
 > 
-> [闲话TPU #4 Coral Edge TPU赋能移动端]()
+> [闲话TPU #4 Coral Edge TPU赋能移动端](http://cyfeng.science/tpu/blog/2019/03/04/chat-about-tpu-4.html)
 > 
 第一届Google TPU线下分享交流会于2019年4月19日在中关村五道口高山会议室成功举办。参会人员分别为[投资人兼在读博士李卓桓](https://bkso.baidu.com/item/%E6%9D%8E%E5%8D%93%E6%A1%93)、[SIGAI创始人雷明](https://www.huodongjia.com/guest-077106065120077122081053.html)、[伽利略资本投资总监郑譞](https://cn.linkedin.com/in/xuanr) [奇点机智职员栾迎凯](https://www.naturali.io/about-us)、北邮硕士[段嘉铭](https://github.com/VDeamoV)、[朱正源](https://github.com/824zzy)、[李童俊](https://github.com/TuringLee)、[石珅达](https://github.com/CyFeng16)，中科院电子所博士生[李军](https://github.com/muzi-8)
 
@@ -47,9 +47,11 @@ date: 2019-04-23
 ![AI at the edge](../../../../../assets/TPU/lijun.jpg)
 
 6）栾迎凯 主要介绍了使用TPU是为了基于“词”单元，从新训练一个bert。因为自己实践使用GPU，耗时一个多月，性能还是不太好。
+
 ![AI at the edge](../../../../../assets/TPU/luanyingkai.jpg)
 
 7）雷明  主要介绍了自己SIGAI公司的业务，使得每一位用户能够容易上手ML。
+
 ![AI at the edge](../../../../../assets/TPU/leiming.jpg)
 
 ## 环节 3
